@@ -1,0 +1,13 @@
+name: simple_dart_utils_date_time
+description: Utils date time
+version: 0.0.1
+repository: https://github.com/simple-dart/utils_date_time
+platforms:
+  web:
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+
+dev_dependencies:
+  test: ^1.22.2
